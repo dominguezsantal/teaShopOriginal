@@ -8,8 +8,30 @@ function Tea(type,temp,size){
 }
 //Green Tea Prototypes
 
-var smallColdGreen = new Tea("green", "cold", "small");
-console.log(smallColdGreen)
+//Green Tea Prototypes
+//New objects according to their properties.
+//var smallColdGreen = new Tea("green", "cold", "small");
+//var smallHotGreen = new Tea("green", "hot", "small");
+//var medColdGreen = new Tea("green", "cold", "medium");
+//var medHotGreen = new Tea("green", "hot","medium");
+//var largeColdGreen = new Tea("green", "cold","large");
+var largeHotGreen = new Tea("green", "hot");
+
+
+//console.log(smallColdGreen)
+//console.log(smallHotGreen)
+//console.log(medColdGreen)
+//console.log(medHotGreen)
+//console.log(largeColdGreen)
+console.log(largeHotGreen)
+
+
+
+
+
+
+
+
 
 
 //Types of teas
