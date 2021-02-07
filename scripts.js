@@ -24,8 +24,6 @@ var sizeCost = [];
 
 
 
-
-
   //Button Javascript
   //Testing button will display total cost of tea size selected
 $( document ).ready(function() {
